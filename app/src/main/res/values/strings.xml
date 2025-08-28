@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week Calendar</string>
+    <string name="main">Main</string>
+    <string name="setting">Setting</string>
+</resources>
